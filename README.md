@@ -1,2 +1,2 @@
 # Sol-ISS-Tracker
-SOL / ISS Tracker
+SOL / ISS Tracker note
